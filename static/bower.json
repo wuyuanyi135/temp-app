@@ -1,0 +1,23 @@
+{
+  "name": "static",
+  "authors": [
+    "wuyuanyi <wuyuanyi135@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babel": "*",
+    "jquery": "^2.2.3",
+    "react": "^15.0.2",
+    "socket.io-client": "^1.4.5"
+  }
+}

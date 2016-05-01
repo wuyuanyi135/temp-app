@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo nodemon index.js -i static
